@@ -23,11 +23,11 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 gem 'petfinder'
-gem 'bootstrap', '~> 5.0.0.beta1'
-gem 'sprockets-rails', '~> 3.2.2'
 gem 'awesome_print'
 gem 'cancancan'
 gem 'jquery-rails'
+gem 'simple_form'
+gem 'materialize-sass', '~> 1.0.0'
 
 
 # Use Active Storage variant

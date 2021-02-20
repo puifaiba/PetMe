@@ -1,25 +1,5 @@
-# README
+<h1>PetMe</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails pet adoption app that uses the Petfinder API. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# PetMe
+https://coolors.co/2364aa-33a0d7-73bfb8-fec601-ea7317
